@@ -1,0 +1,17 @@
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\nKatmanliMimari.exe.config
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\nKatmanliMimari.exe
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\nKatmanliMimari.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.Properties.Resources.resources
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.exe
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\EntityLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanl.380DDE6F.Up2Date
+C:\Users\harun\source\repos\nKatmanliMimari\nKatmanliMimari\obj\Debug\nKatmanliMimari.Anasayfa.resources

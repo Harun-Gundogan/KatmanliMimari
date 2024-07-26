@@ -1,0 +1,9 @@
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\harun\source\repos\nKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
